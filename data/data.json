@@ -1,0 +1,33 @@
+{
+	"laptops":[
+         {
+
+         	"name":"dell",
+         	"image":"/image/dell.jpg",
+         	"original_price":34000,
+         	"price":33999
+         },{
+         	"name":"HP",
+         	"image":"/image/hp.jpg",
+         	"original_price":28000,
+         	"price":27999
+         },{
+         	"name":"lenovo",
+         	"image":"/image/lenovo.jpg",
+         	"original_price":22000,
+         	"price":20000
+         },{
+         	"name":"MI",
+         	"image":"/image/mi.jpg",
+         	"original_price":44000,
+         	"price":44000
+         },{
+         	"name":"Apple",
+         	"image":"/image/apple.jpg",
+         	"original_price":32000,
+         	"price":30000
+         }
+	]
+
+
+}
